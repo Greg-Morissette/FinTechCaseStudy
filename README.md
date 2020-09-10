@@ -1,2 +1,29 @@
 # FinTechCaseStudy
-Unit 1 Homework Assignment: FinTech Case Study: Cannalyst
+## Overview and Origin
+* Subject of This Case Study
+  * The name of the company, and the subject of thise brief case study, is Canalyst. Canalyst is an Equity Research firm leveraging newer, and more powerful technologies in order to provide investors/hedge funds/money managers with up-to-date information about their holdings significantly faster than traditional equity research firms(1).
+* When was the Company Founded? Why?
+  * The company was incorporated in 2015, and their intial product launch featured 500 equity models. Canalyst was started in a basement office in Vancouver, and has since expanded into multiple offices. The founders of the company are James Rife and Damir Hot. James Rife built the first version of the Canalyst product himself when he was unable to find anything that he needed in the open marketplace. Prior to founding Canalyst, James had 10 years of experience in Equity Research and Portfolio Management. Prior to Canalyst, Damir was VP of Customer Development at Metafor Software, which was a machine-learning startup that was eventually acquired by NetApp in 2010. Canalyst was created out of necessity by James Rife, who was a former buy-side analyst that required a more efficient way to exapnd equity coverage and quickly compare a broad range of companies within certain industries and sectors. The tech behind Canalyst was initally started as a tool to save time and to become more competitive. However, as time went on, there was increasing interest from other institutonal investors. Now, Canalyst supplies research to a wide range of clients across the world. 
+* Funding
+  * Canalyst has gone through an original seed round, and two more rounds of funding. In August of 2016, Canalyst closed a $2.7m Seed Round which was led by Vanedge Capital to expand their platform(2). The Vanedge-led investment enabled Canalyst to accelerate its entry into the Canadian and US markets while continuing to invest in cloud-based product R&D. This was Vanedge's second fintech investment, the first fintech investment being the payment analytics company, Control. 
+  * Canalyst then announced in June of 2017 that they received a closed Series A funding round investement from angel investing firm, WorldQuant Ventures. The angle investing firm has a focus on disruptive companies in technology, with  particular focus on Data and Finance. The WorldQuant Ventures’ investment allowed Canalyst to enhance its cloud based, on-demand equity model database by enabling continued investment in analytics capabilities, and expansion of its breadth of coverage for small- and mid-cap companies(3).
+  * Back in January of 2020, Canalyst announced that they closed a $20m Series B financing round. The round was led by a private investor, and received additional commitments from ScaleUP Ventures and existing investors such as Vanedge Capital. Canalyst used the new capital to spend on recruiting new talent in the areas of product enhancements and client service. This past round of funding brought Canalysts total funding to $28m(4). 
+## Business Activities:
+* Solving Financial Servcies Problems
+  * Canalyst builds financial models that are used by Analysts, Portfolio Managers, and Institutional Investors in order to track over 4,000 North American public equities. Building financial models can be very time-constraining to build, and can also be built with inaccruate data. Shifting industry trends, cost pressures, and regulation all result in investors turning to external data providers and technology to find and delvier alpha for their own portfolios, or for their cleints'. Industry trends are constantly diverting attention away from small and mid-cap equity research. At this time, the rise of index and passive investing causes large-cap concentration on the buyside, and cost pressures force sellside firms to reduce their coverage of smaller names. Now more than ever, institutional buyside investors are turning to external data providers, such as Canalyst, to find ways to incorporate the use of financial technology to find and deliver alpha for their clients. By providing an enormous database of financial models, institutional investors can begin to focus more on the small- and mid-cap names, and need far less time to deliver investment thesis' to their clients(5).
+* Market Size of Intended Customers
+  * Canalyst is disrupting the entire Equity Research and Data Vendors financial industry with their platform. Institutional investors have never had an ideal solution for their financial modelling needs. Usually, these large institutional investors would turn to data vendors for their financial data, which relied heavily on outsourcing. Hand-built financial models can capture a company's financial performance and position verr well, but the models are often difficult to use to compare to others. The Equity Research market is difficult to measure as they are large banks who provide research, as well as smaller, more niche firms. Suffice to say, instituional investors are willing to pay for quality research. 
+* Canalyst's Technologies
+## Landscape:
+* What domain of the financial industry is the company in?
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+* What are the other major companies in this domain?
+## Results
+* What has been the business impact of this company so far?
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* How is your company performing relative to competitors in the same domain?
+## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Why do you think that offering this product or service would benefit the company?
+* What technologies would this additional product or service utilize?
+* Why are these technologies appropriate for your solution?
